@@ -111,7 +111,7 @@ st.altair_chart(line_chart, use_container_width=True)
 #plot bar chart to show price per showroom
 ##############################################
 
-st.subheader("💶 Sales per Showroom (€)")
+st.subheader("💶 Sales per Showroom")
 
 showroom_sales = db_select.groupby("showroom")[["sale_amount"]].sum().reset_index()
 
@@ -152,7 +152,7 @@ st.altair_chart(final_showroom_chart, use_container_width=True)
 #plot bar chart to show price per vehicle
 ##############################################
 
-st.subheader("💶 Most Expensive Vehicles (€)")
+st.subheader("💶 Most Expensive Vehicles")
 
 price_per_vehicle = db_select.groupby("vehicle")[["sale_amount"]].sum().reset_index()
 
