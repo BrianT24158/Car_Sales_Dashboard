@@ -1,0 +1,51 @@
+_id,customer_email,vehicle_key,showroom,sale_amount,order_status,order_type,order_date
+686105c966f80c5d672cebd1,sean.murphy@gmail.com,Ford Focus 2025 ST Line,Dublin,34500,Complete,Bank Transfer,2025-06-01 00:00:00+00:00
+686105c966f80c5d672cebd2,fatima.zahra@yahoo.com,Kia Ceed 2024 Platinum,Cork,32750,Complete,Financing,2024-03-15 00:00:00+00:00
+686105c966f80c5d672cebd3,will.smith@hotmail.com,Hyundai i30 2025 Premium,Galway,31900,Pending,Cash,2025-05-21 00:00:00+00:00
+686105c966f80c5d672cebd4,mei.lin@gmail.com,Toyota Auris 2023 Sol,Limerick,29400,Complete,Bank Transfer,2023-12-02 00:00:00+00:00
+686105c966f80c5d672cebd5,rajesh.patel@gmail.com,Volkswagen Passat 2024 R-Line,Waterford,42200,Pending,Financing,2025-01-19 00:00:00+00:00
+686105c966f80c5d672cebd6,lucia.rossi@outlook.com,Mazda 3 2025 GT,Kilkenny,33500,Complete,Cash,2024-08-07 00:00:00+00:00
+686105c966f80c5d672cebd7,thomas.obrien@gmail.com,Peugeot 208 2023 Active,Dublin,25600,Pending,Financing,2025-04-12 00:00:00+00:00
+686105c966f80c5d672cebd8,ahmed.youssef@yahoo.com,Nissan Leaf 2025 Tekna,Galway,37800,Complete,Cash,2024-09-09 00:00:00+00:00
+686105c966f80c5d672cebd9,anna.kowalski@gmail.com,Renault Clio 2024 Iconic,Sligo,27100,Pending,Bank Transfer,2025-03-05 00:00:00+00:00
+686105c966f80c5d672cebda,emily.johnson@hotmail.com,Opel Corsa 2025 Elite,Dublin,28950,Complete,Financing,2024-07-21 00:00:00+00:00
+686105c966f80c5d672cebdb,pedro.santos@gmail.com,BMW 320i 2024 M Sport,Cork,52600,Pending,Cash,2025-06-11 00:00:00+00:00
+686105c966f80c5d672cebdc,yuki.tanaka@gmail.com,Mercedes A-Class 2023 AMG Line,Limerick,48900,Complete,Bank Transfer,2023-11-13 00:00:00+00:00
+686105c966f80c5d672cebdd,chloe.martin@yahoo.com,Skoda Superb 2025 Laurin & Klement,Waterford,45500,Pending,Financing,2025-05-10 00:00:00+00:00
+686105c966f80c5d672cebde,samuel.kim@hotmail.com,Honda Jazz 2024 Advance,Galway,26400,Complete,Cash,2024-04-18 00:00:00+00:00
+686105c966f80c5d672cebdf,mary.oconnor@gmail.com,Jeep Wrangler 2025 Rubicon,Cork,62800,Pending,Financing,2025-03-27 00:00:00+00:00
+686105c966f80c5d672cebe0,jamal.ali@gmail.com,Dacia Sandero 2023 Comfort,Dublin,19300,Complete,Cash,2023-09-03 00:00:00+00:00
+686105c966f80c5d672cebe1,helena.schmidt@outlook.com,Audi A3 2024 S Line,Kilkenny,44700,Pending,Bank Transfer,2025-02-14 00:00:00+00:00
+686105c966f80c5d672cebe2,george.papad@gmail.com,Fiat 500 2025 Dolcevita,Sligo,23600,Complete,Financing,2025-04-01 00:00:00+00:00
+686105c966f80c5d672cebe3,aisha.abdullahi@gmail.com,Citroen C4 2024 Shine,Dublin,30200,Pending,Cash,2025-06-20 00:00:00+00:00
+686105c966f80c5d672cebe4,carlos.mendes@yahoo.com,Subaru XV 2025 SE Premium,Galway,36950,Complete,Bank Transfer,2024-08-29 00:00:00+00:00
+686105c966f80c5d672cebe5,niamh.byrne@gmail.com,Ford Focus 2025 ST Line,Limerick,34500,Pending,Financing,2025-03-18 00:00:00+00:00
+686105c966f80c5d672cebe6,igor.petrov@gmail.com,Kia Ceed 2024 Platinum,Waterford,32750,Complete,Cash,2024-05-22 00:00:00+00:00
+686105c966f80c5d672cebe7,maria.lopez@hotmail.com,Hyundai i30 2025 Premium,Kilkenny,31900,Pending,Bank Transfer,2025-06-03 00:00:00+00:00
+686105c966f80c5d672cebe8,stefan.novak@gmail.com,Toyota Auris 2023 Sol,Sligo,29400,Complete,Financing,2023-10-27 00:00:00+00:00
+686105c966f80c5d672cebe9,sara.ali@yahoo.com,Volkswagen Passat 2024 R-Line,Dublin,42200,Pending,Cash,2025-02-07 00:00:00+00:00
+686105c966f80c5d672cebea,liam.gallagher@gmail.com,Mazda 3 2025 GT,Galway,33500,Complete,Bank Transfer,2024-04-16 00:00:00+00:00
+686105c966f80c5d672cebeb,monica.bellucci@gmail.com,Peugeot 208 2023 Active,Cork,25600,Pending,Financing,2025-06-09 00:00:00+00:00
+686105c966f80c5d672cebec,adnan.khan@hotmail.com,Nissan Leaf 2025 Tekna,Limerick,37800,Complete,Cash,2024-02-24 00:00:00+00:00
+686105c966f80c5d672cebed,sophie.dubois@gmail.com,Renault Clio 2024 Iconic,Waterford,27100,Pending,Bank Transfer,2025-05-16 00:00:00+00:00
+686105c966f80c5d672cebee,hassan.ali@yahoo.com,Opel Corsa 2025 Elite,Dublin,28950,Complete,Financing,2024-10-12 00:00:00+00:00
+686105c966f80c5d672cebef,olivia.murphy@gmail.com,BMW 320i 2024 M Sport,Galway,52600,Pending,Cash,2025-04-05 00:00:00+00:00
+686105c966f80c5d672cebf0,kostas.nikos@gmail.com,Mercedes A-Class 2023 AMG Line,Cork,48900,Complete,Bank Transfer,2023-08-17 00:00:00+00:00
+686105c966f80c5d672cebf1,anna.muller@hotmail.com,Skoda Superb 2025 Laurin & Klement,Limerick,45500,Pending,Financing,2025-01-31 00:00:00+00:00
+686105c966f80c5d672cebf2,fernando.silva@gmail.com,Honda Jazz 2024 Advance,Waterford,26400,Complete,Cash,2024-05-04 00:00:00+00:00
+686105c966f80c5d672cebf3,patrick.oreilly@gmail.com,Jeep Wrangler 2025 Rubicon,Sligo,62800,Pending,Bank Transfer,2025-06-14 00:00:00+00:00
+686105c966f80c5d672cebf4,amir.hosseini@yahoo.com,Dacia Sandero 2023 Comfort,Kilkenny,19300,Pending,Financing,2025-05-30 00:00:00+00:00
+686105c966f80c5d672cebf5,isabel.garcia@gmail.com,Audi A3 2024 S Line,Galway,44700,Complete,Cash,2024-11-12 00:00:00+00:00
+686105c966f80c5d672cebf6,ewa.nowak@hotmail.com,Fiat 500 2025 Dolcevita,Dublin,23600,Pending,Bank Transfer,2025-04-28 00:00:00+00:00
+686105c966f80c5d672cebf7,mohamed.farah@gmail.com,Citroen C4 2024 Shine,Cork,30200,Complete,Financing,2024-07-02 00:00:00+00:00
+686105c966f80c5d672cebf8,james.brown@yahoo.com,Subaru XV 2025 SE Premium,Sligo,36950,Pending,Cash,2025-03-23 00:00:00+00:00
+6861143f66f80c5d672cec16,john.doe@gmail.com,Toyota Yaris 2025 Sport,Dublin,24500,Pending,Cash,2025-05-12 00:00:00+00:00
+6861143f66f80c5d672cec17,jane.smith@yahoo.com,Honda Civic 2024 Executive,Cork,28300,Complete,Bank Transfer,2024-04-02 00:00:00+00:00
+6861143f66f80c5d672cec18,ali.khan@hotmail.com,Ford Fiesta 2025 Trend,Galway,21800,Complete,Financing,2025-03-21 00:00:00+00:00
+6861143f66f80c5d672cec19,maria.lopez@gmail.com,Nissan Micra 2023 Visia,Limerick,19600,Complete,Cash,2023-11-19 00:00:00+00:00
+6861143f66f80c5d672cec1a,chen.wei@gmail.com,Hyundai i20 2024 Premium,Waterford,23700,Pending,Bank Transfer,2024-09-14 00:00:00+00:00
+6861143f66f80c5d672cec1b,fatima.noor@gmail.com,Mazda 6 2025 GT,Kilkenny,32900,Complete,Financing,2025-02-07 00:00:00+00:00
+6861143f66f80c5d672cec1c,george.brown@gmail.com,Volkswagen Golf 2024 Life,Sligo,27400,Pending,Cash,2024-07-11 00:00:00+00:00
+6861143f66f80c5d672cec1d,niamh.murphy@gmail.com,Peugeot 3008 2025 Active,Dublin,35200,Complete,Bank Transfer,2025-01-22 00:00:00+00:00
+6861143f66f80c5d672cec1e,pedro.santos@gmail.com,Renault Captur 2023 Intense,Galway,26500,Pending,Financing,2023-06-18 00:00:00+00:00
+6861143f66f80c5d672cec1f,helena.schmidt@gmail.com,Jeep Renegade 2025 Trailhawk,Cork,38100,Complete,Cash,2025-04-27 00:00:00+00:00
