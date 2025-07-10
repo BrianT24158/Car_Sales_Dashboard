@@ -113,7 +113,6 @@ st.altair_chart(line_chart, use_container_width=True)
 
 st.subheader("💶 Sales per Showroom (€)")
 
-# Aggregate
 showroom_sales = db_select.groupby("showroom")[["sale_amount"]].sum().reset_index()
 
 # Color scale to highlight bigger sales
@@ -172,18 +171,7 @@ vehicle_chart = alt.Chart(price_per_vehicle).mark_bar(
     height=300
 )
 
-# Text labels
-text_v = vehicle_chart.mark_text(
-    align='center',
-    baseline='bottom',
-    dy=-2
-).encode(
-    text=alt.Text('sale_amount:Q', format=",")
-)
-
-final_vehicle_chart = vehicle_chart + text_v
-
-st.altair_chart(final_vehicle_chart, use_container_width=True)
+st.altair_chart(vehicle_chart, use_container_width=True)
 
 st.divider()
 
