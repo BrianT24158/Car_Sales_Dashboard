@@ -102,7 +102,6 @@ line_chart = alt.Chart(sales_over_time).mark_line(point=True).encode(
     y=alt.Y('sale_amount:Q', title='Total Sales (€)', axis=alt.Axis(format=",d")),
     tooltip=['order_date:T', alt.Tooltip('sale_amount:Q', format=',')]
 ).properties(
-    width=700,
     height=300
 )
 st.altair_chart(line_chart, use_container_width=True)
@@ -133,7 +132,6 @@ showroom_chart = alt.Chart(showroom_sales).mark_bar(
         alt.Tooltip("sale_amount:Q", title="Total Sales (€)", format=",")
     ]
 ).properties(
-    width=400,
     height=300
 )
 
@@ -171,7 +169,6 @@ vehicle_chart = alt.Chart(price_per_vehicle).mark_bar(
         alt.Tooltip("sale_amount:Q", title="Total Sales (€)", format=",")
     ]
 ).properties(
-    width=600,
     height=300
 )
 
